@@ -11,3 +11,5 @@
 * [P15 Why Deep](P15-Why_Deep.md)
 * [P17 CNN](P17-CNN.md)
 * [P18 GNN](P18-GNN.md)
+* [P20 RNN](P20-RNN.md)
+* [P22 Semi-Supervised Learning](P22-Semi-supervised_Learning.md)
