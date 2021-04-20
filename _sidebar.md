@@ -13,3 +13,5 @@
 * [P18 GNN](P18-GNN.md)
 * [P20 RNN](P20-RNN.md)
 * [P22 Semi-Supervised Learning](P22-Semi-supervised_Learning.md)
+* [P23 Unsupervised Learning - word Embedding](P23-Unsupervised_learning_word_embedding.md)
+* [P56 Unsupervised Learning - Linear Methods](P56-Unsupervised_learning_Linear_methods.md)
