@@ -14,6 +14,8 @@
 * [P20 RNN](P20-RNN.md)
 * [P22 Semi-Supervised Learning](P22-Semi-supervised_Learning.md)
 * [P23 Unsupervised Learning - word Embedding](P23-Unsupervised_learning_word_embedding.md)
+* [P24 Explainable ML](P24-Explainable_ML.md)
+* [P33 Attack ML Models](P33-Attack_ML_Models.md)
 * [P56 Unsupervised Learning - Linear Methods](P56-Unsupervised_learning_Linear_methods.md)
 * [P57 Unsupervised Learning - Neighbor Embedding](P57-Unsupervised_learning_Neighbor_Embedding.md)
 * [P58 Unsupervised Learning - Auto Encoder](P58-Unsupervised_learning_Auto-Encoder.md)
